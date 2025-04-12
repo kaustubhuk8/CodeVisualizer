@@ -2,8 +2,6 @@
 
 An interactive tool that visualizes Python code execution with AI-powered explanations.
 
-![Screenshot](assets/screenshot.png)
-
 ## Features
 
 - Step-by-step execution visualization
